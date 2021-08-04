@@ -36,9 +36,11 @@ link do projeto: https://life-learning.netlify.app/#/home
   
 🕹 Tecnologias
 
-<h4>Java</h4>  
-<h4>MySQL</h4>  
-<h4>Spring</h4> 
+Java
+<p>  
+MySQL
+<p>  
+Spring
 
 🖱 Linguagens
 
